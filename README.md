@@ -54,10 +54,9 @@ I'm passionate about building robust web applications and exploring new technolo
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/27Shri03?cardType=github&theme=radical&preferLogin=false" align="right" alt="Stats" style="width: 45%; max-width: 350px; height: auto;" />
 </div>
 <br>
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/27Shri03/27Shri03/output/snake.svg" alt="Snake animation" />
-
+## 🐍 My Contributions
+![Snake animation](https://github.com/27Shri03/27Shri03/blob/output/github-contribution-grid-snake.svg)
 
 
 
