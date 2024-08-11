@@ -47,12 +47,14 @@ I'm passionate about building robust web applications and exploring new technolo
 <img align="left" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="SQL" height='42px'/> </a>
 <br>
 <br>
-## 🔝 Most Used Languages
+## 🔝 My Github Stats
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Shri03&layout=compact&theme=radical" align="left" alt="Top Languages" style="width: 43%; max-width: 350px; height: auto; margin: 20px;" />
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/27Shri03?cardType=github&theme=radical&preferLogin=false" align="right" alt="Stats" style="width: 45%; max-width: 350px; height: auto;" />
 </div>
 <br>
+
+
 
 
