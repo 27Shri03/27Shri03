@@ -62,7 +62,6 @@ I'm passionate about building robust web applications and exploring new technolo
 <br>
 <br>
 <br>
-<br>
 
 ## 🐍 My Contributions
 ![Snake animation](https://raw.githubusercontent.com/27Shri03/27Shri03/output/snake.svg)
