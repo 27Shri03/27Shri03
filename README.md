@@ -19,7 +19,7 @@ I'm passionate about building robust web applications and exploring new technolo
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Chat Application** with fellow android developers
-- 🌱 &nbsp; I’m currently learning Angular and Typescript; 
+- 🌱 &nbsp; Exploring system design and service architecture; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/27Shri03?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shriram-bhardwaj-b08791220/)
